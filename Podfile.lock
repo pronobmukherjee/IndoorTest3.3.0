@@ -1,0 +1,10 @@
+PODS:
+  - IndoorsSDK-iOS (3.3.0)
+
+DEPENDENCIES:
+  - IndoorsSDK-iOS (~> 3.3)
+
+SPEC CHECKSUMS:
+  IndoorsSDK-iOS: cc3212bc95a104e263400c5c3f6d954f3881a463
+
+COCOAPODS: 0.36.0
